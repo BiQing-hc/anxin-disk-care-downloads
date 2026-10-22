@@ -1,0 +1,15 @@
+Anxin Disk Care / 安心清理
+Copyright (c) 2026 Anxin Disk Care. All rights reserved.
+
+Permission is granted to download, install and use the unmodified application
+free of charge for personal or internal business use. This permission does not
+grant access to or a license to the private application source repository.
+You may share a link to the official download page. Redistribution of modified
+versions, sale or sublicensing requires separate permission from the owner.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. Always review the exact
+files and recovery requirements before confirming a cleanup.
+
+Third-party runtimes retain their own licenses. Python and Tcl/Tk are included
+in the Windows package; their notices are provided with the runtime.
