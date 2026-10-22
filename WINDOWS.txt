@@ -1,0 +1,18 @@
+安心清理 0.6.0 · Windows 10/11 x64
+
+推荐运行 AnxinDiskCare-0.6.0-Windows-x64-Setup.exe。
+安装到当前用户的 %LOCALAPPDATA%\Programs\AnxinDiskCare，开始菜单可打开；不创建桌面快捷方式。
+也可完整解压 ZIP 后运行 AnxinDiskCare.exe；不要单独移动 exe 或删掉 _internal。
+
+Windows 首版提供项目目录占用扫描、已核验项目代码的逐项选择与确认、DeepSeek 设置和 AI 建议。
+与 macOS 原生版的固定应用缓存规则并不完全相同；只读原因会显示在结果中。
+不自动扫描或清理，不需要管理员权限。照片、视频、图库、剪映、微信、QQ、歌曲保留。
+依赖只能部分清理，清理前确认不再使用项目并备份本地修改，使用前需重装或重建。
+没有通过当前安全检查的项目保持只读，不提供绕过开关。
+
+在 AI 设置中输入自己的 Key；保存到 Windows 系统凭据管理器。不要发到聊天或指令里。
+只有明确许可并点击 AI 分析才会发送指令和脱敏摘要；AI 建议不会自动勾选或执行。
+anxin.exe doctor / schema / inspect / scan / protections 为只读 JSON CLI；无终端删除命令。
+
+当前发行包未购买代码签名证书，Windows 可能提示未知发布者。请从官方 Releases 获取并核对 SHA256；不关闭系统保护。
+官方页面：https://github.com/BiQing-hc/anxin-disk-care-downloads/releases
